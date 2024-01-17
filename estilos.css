@@ -1,0 +1,7 @@
+p::first-line {font-size:2em}
+
+p.parrafo2::first-letter{font-size:3em}
+
+p::before {content: "leer..."; color: red; font-weight: bold;}
+
+li::before {content: url('img/check verde.jpg');}
